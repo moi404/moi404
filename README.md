@@ -59,12 +59,13 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moi-237&show_icons=true&theme=radical&cache_seconds=300)
 
 ---
-
-## Me trouver
 - 📧 wilsontessoh@yahoo.com  
-- 💼 www.linkedin.com/in/wilsontessoh
-- 🌍 Douala, Cameroun
 
+## 📱 Follow me
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/wilsontessoh)
+[![Facebook](https://cdn-icons-png.flaticon.com/24/733/733547.png)]([https://www.facebook.com/tonprofil](https://www.facebook.com/people/Wilson-Tessoh/61585829171377/))
+[![Instagram](https://cdn-icons-png.flaticon.com/24/2111/2111463.png)]([https://www.instagram.com/tonprofil](https://www.instagram.com/wilson_tessoh/))
 ---
 
 *"Si tu lis jusqu’ici, tu sais déjà que je ne dors pas pendant les mises à jour système."*
