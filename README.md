@@ -29,7 +29,7 @@
 
 >en fonction des domaines (Pentest, Blue Team, Forensic, Malware, Red Team/Offensive, DevSecOps).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moi404&layout=compact&theme=radical&cache_seconds=300)
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username=moi404)
 
 
 ---
@@ -56,7 +56,7 @@
 ## Stats
 > Mes statistiques sur **Github**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moi404&show_icons=true&theme=radical&cache_seconds=300)
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username=moi404)
 
 ---
 - 📧 wilsontessoh@yahoo.com  
